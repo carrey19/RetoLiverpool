@@ -1,0 +1,6 @@
+framework module Pods_RetoLiverpool {
+  umbrella header "Pods-RetoLiverpool-umbrella.h"
+
+  export *
+  module * { export * }
+}
